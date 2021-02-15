@@ -1,0 +1,211 @@
+#web{
+    position: relative;
+    bottom: 800px;
+    right: -200px;
+    font-style: italic;
+    font-weight: 900;
+    color: ghostwhite;
+    
+}
+
+#dev{
+    position: relative;
+    bottom: 909px;
+    right: -500px;
+    font-style: italic;
+    font-weight: 900;
+    top: -881px;
+    color: ghostwhite;
+}
+
+body{
+    background-color: rgb(12, 0, 75);
+}
+
+#me{
+    position: relative;
+    bottom: 800px;
+    right: -200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: ghostwhite;
+}
+
+#about{
+    position: relative;
+    position: relative;
+    bottom: 800px;
+    right: -200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: ghostwhite;
+}
+
+#grafica{
+    position: relative;
+    bottom: 909px;
+    right: -500px;
+    font-style: italic;
+    font-weight: 900;
+    top: -881px;
+    color: ghostwhite;
+}
+
+#discord{
+    position: relative;
+    position: relative;
+    bottom: 800px;
+    right: -200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(42, 42, 43);
+}
+
+#py{
+    position: relative;
+    bottom: 909px;
+    right: -500px;
+    font-style: italic;
+    font-weight: 900;
+    top: -700px;
+    color: ghostwhite;
+}
+
+#css{
+    position: relative;
+    bottom: 909px;
+    right: -500px;
+    font-style: italic;
+    font-weight: 900;
+    top: -700px;
+    color: ghostwhite;
+}
+
+#html{
+    position: relative;
+    bottom: 909px;
+    right: -500px;
+    font-style: italic;
+    font-weight: 900;
+    top: -700px;
+    color: ghostwhite;
+}
+
+#pr{
+    position: relative;
+    bottom: 909px;
+    right: 50px;
+    font-style: italic;
+    font-weight: 900;
+    top: -700px;
+    color: ghostwhite;
+}
+
+
+#vs{
+    position: relative;
+    bottom: 909px;
+    right: 50px;
+    font-style: italic;
+    font-weight: 900;
+    top: -700px;
+    color: ghostwhite;
+}
+
+
+
+
+::-webkit-scrollbar {
+    width: 10px;
+  }
+    ::-webkit-scrollbar-track {
+    background: #4b033b; 
+  }
+    ::-webkit-scrollbar-thumb {
+    background: rgb(124, 8, 99); 
+      border-radius:10px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    
+    background: rgb(93, 6, 173); 
+  } 
+
+  #p{
+    position: relative;
+   bottom: 200px;
+   right: -200px;
+   color: aliceblue;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  #me{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  h3{
+      position: relative;
+      top: -400px;
+      right: -200px;
+      color: aliceblue;
+  }
+
+
+  #mondo{
+    position: relative;
+    top: -400px;
+    right: -200px;
+    color: aliceblue;
+
+  }
+
+  #mio{
+    position: relative;
+    top: -400px;
+    right: -200px;
+    color: aliceblue;
+
+  }
+
+  #chi{
+    position: relative;
+    top: -700px;
+    right: -100px;
+    color: aliceblue;
+  }
+
+
+
+  .smartphone:before {
+    content: '';
+    display: block;
+    width: 60px;
+    height: 5px;
+    position: absolute;
+    top: -30px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #333;
+    border-radius: 10px;
+  }
+  
+
+  .smartphone:after {
+    content: '';
+    display: block;
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    left: 50%;
+    bottom: -65px;
+    transform: translate(-50%, -50%);
+    background: #333;
+    border-radius: 50%;
+  }
+  
+
+  .smartphone .content {
+    width: 360px;
+    height: 640px;
+    background: white;
+  }
+
+
+
+  
